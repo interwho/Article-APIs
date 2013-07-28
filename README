@@ -1,6 +1,7 @@
 Article APIs
 
 article-rewriter.php - Takes an article as a GET variable, rewrites it so that it appears to be unique content using thesaurus definitions, and echoes the output to the webpage.
-article-simplifier.php - Basically, the reverses what article-rewriter.php does.
+
+article-simplifier.php - Basically, reverses what article-rewriter.php does.
 
 These were both used as part of a Wordpress autoblog extension I built. Enjoy.
